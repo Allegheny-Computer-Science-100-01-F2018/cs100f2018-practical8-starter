@@ -44,6 +44,7 @@ implementation:
   * Contain at least four multi-line comments
   * Never call the `println` method
   * Declare or use the `PASSWORD_MINIMUM_LENGTH` variable at least two times
+  * Use boolean variables to complete the password checks
 
 When you use the `git commit` command to transfer your source code to your
 GitHub repository, [Travis CI](https://travis-ci.com/) will initialize a build
